@@ -23,7 +23,6 @@ Applying Machine Learning to forecast crop yield as well as Exploratory Data Ana
 - Simple Linear Regression
 - Non-Linear Regression
 - Cross Validation
-- Simple Neural Network
 - Forecast Performance/Error
 
 ### Results
